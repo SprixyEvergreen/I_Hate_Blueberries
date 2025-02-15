@@ -1,0 +1,6 @@
+- Name: IHateBlueberries
+  Version: 0.1.0
+  DLL: bin/IHateBlueberries.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.4205.0
