@@ -1,2 +1,2 @@
-# Blueberry
-Replace with your mod's readme!
+# I Hate Blueberries
+A small mod for Celeste that makes collected berries, hearts and cassettes look uncollected.
